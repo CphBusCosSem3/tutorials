@@ -9,5 +9,5 @@ situations. Make sure they are actually doing what you would like to do before g
 ## Guide about Digital Ocean
 [https://github.com/CphBusCosSem3/tutorials/blob/master/DigitalOcean.md](https://github.com/CphBusCosSem3/tutorials/blob/master/DigitalOcean.md)
 
-## Guide about NGinx
+## Guide about Nginx
 [https://github.com/CphBusCosSem3/tutorials/blob/master/nginx.md](https://github.com/CphBusCosSem3/tutorials/blob/master/nginx.md)
